@@ -1,0 +1,6 @@
+{  
+    // Add MongoURI
+    "mongoURI": " ",
+    "jwtSecret": "Secret"
+
+}
